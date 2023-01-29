@@ -1,7 +1,6 @@
 | Link | description |
 | --- |  - |
-| 👋 [Let's talk](https://github.com/orgs/MicroWebStacks/discussions) | An Open Forum for Discussions right here on Github |
-| 🏠 [Next Home Control](https://github.com/MicroWebStacks/NextHomeControl) | Next.js React with MUI Material UI Front End components for Zigbee 2 MQTT Home Heating Light sound Control and Grafana dashboards |
-| 🔊 [Web Sound](https://www.homesmartmesh.com/docs/sound/) / [repo](https://github.com/SoundHacking) | Real time capture, process and play sound with Python, web and microcontrollers |
+| 👋 [Let's talk](https://github.com/orgs/MicroWebStacks/discussions) | Discussions about Web Frameworks and concepts |
+| 🏠 [Astro Home Control](https://github.com/MicroWebStacks/astro-home-control) | Home Automation with Astro SSR and Node for Zigbee 2 MQTT Home Heating and Light control |
 | [SVG Voronoi Editor](https://github.com/WebSVG/voronoi) | Parametric Voronoi generator with real time editing and SVG export|
 | ✒ [Portfolio](https://wassfila.github.io/) | Author CV, Career and Projects |
